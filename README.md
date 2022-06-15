@@ -3,11 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 # 💫About Me :
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
+- 🔭 I’m currently working on [Flutter](https://flutter.dev/).
 - 🌱 I’m currently learning more about BlockChain.
-- 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - Codepur](https://youtube.com/hellocodepur)
+<!-- - 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - Codepur](https://youtube.com/hellocodepur) -->
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
