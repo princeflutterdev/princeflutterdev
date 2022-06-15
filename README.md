@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/).
 - 🌱 I’m currently learning more about BlockChain.
 - 💬 Ask me about Flutter or any tech-related stuff.
-<!-- - 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - Codepur](https://youtube.com/hellocodepur) -->
+- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/rajender_kumar7)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
