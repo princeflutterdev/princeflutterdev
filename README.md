@@ -39,7 +39,7 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=princeflutterdev&show_icons=true&theme=vue" />
+	
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=princeflutterdev&theme=vue" />
 </p>
 
