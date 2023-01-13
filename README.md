@@ -37,10 +37,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeflutterdev&theme=vue"/>
 </p>
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=princeflutterdev&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=princeflutterdev&theme=flag-india&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=princeflutterdev&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=princeflutterdev&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=princeflutterdev&theme=vue" />
+</p>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
