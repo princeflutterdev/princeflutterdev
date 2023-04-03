@@ -46,6 +46,23 @@
 </br>
 </br>
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+### 😂Random Dev Meme
+<img src="https://random-memer-q0sp.onrender.com" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=princeflutterdev&icon=0&color=1)](https://visitcount.itsvg.in)
+
+  ## 💰You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/princedev) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/princedev) 
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
 <b>🏆 Github Achievements
 
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=princeflutterdev&column=7&margin-w=5&margin-h=5&theme=discord)](https://github.com/princeflutterdev/)
