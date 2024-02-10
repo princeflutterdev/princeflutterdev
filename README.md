@@ -1,4 +1,4 @@
-## Rajender Kumar(Prince Negi) | ॐ
+## Prince Flutter Dev(Prince Negi) | ॐ
 <h2>
 <!--   Namastey <img src="https://media.giphy.com/media/RMZWv7UqikFGIvv6m4/giphy.gif" width="50"> -->
   Namastey <img src="https://i.imgur.com/fMEIRu7.gif" width="35">
