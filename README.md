@@ -5,7 +5,7 @@
 </h2>
 <!-- ### Namastey 🙏 -->
 
-⚡ I am <b>Rajender Kumar</b> and I am an <b>Full Stack Developer</b> with over 4 years of experience.
+⚡ I am <b>Rajender Kumar</b> and I am an <b>Full Stack Developer</b> with over 8+ years of experience.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=princeflutterdev)
 <a href="https://www.linkedin.com/in/rajender-kumar-1b353413b" target="_blank"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/12443851/rajender-kumar" target="_blank"><img height="25" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/princedev" target="_blank"><img height="25" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>&nbsp;&nbsp;
