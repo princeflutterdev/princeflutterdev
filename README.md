@@ -26,7 +26,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeflutterdev&theme=buefy&bg_color=050505&title_color=ffffff&text_color=ffffff&layout=compact" alt="princeflutterdev">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=princeflutterdev)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princeflutterdev&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727&ring=DD2727&currStreakLabel=DDDDDD)](https://github.com/princeflutterdev/)
 </br>
 </br>
 
