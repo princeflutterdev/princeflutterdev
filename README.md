@@ -36,9 +36,6 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
-### 😂Random Dev Meme
-<img src="https://random-memer-q0sp.onrender.com" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=princeflutterdev&icon=0&color=1)](https://visitcount.itsvg.in)
 
@@ -52,7 +49,8 @@
 
 <b>🏆 Github Achievements
 
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=princeflutterdev&column=7&margin-w=5&margin-h=5&theme=discord)](https://github.com/princeflutterdev/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=princeflutterdev&theme=onedark)](https://github.com/princeflutterdev)
+
 </br>
 </br>
 
