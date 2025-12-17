@@ -29,7 +29,7 @@
 </br>
 </br>
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=princeflutterdev)](https://github.com/princeflutterdev/github-readme-activity-graph)
+[![Prince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=princeflutterdev)](https://github.com/princeflutterdev)
 </br>
 </br>
 
