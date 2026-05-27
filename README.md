@@ -22,8 +22,8 @@
 ![Prince Negi's github details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeflutterdev&theme=github_dark)
 </br>
 </br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=princeflutterdev&count_private=true&show_icons=true&title_color=10cf53&icon_color=ffffff&text_color=ffffff&bg_color=050505" alt="princeflutterdev"/>&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeflutterdev&theme=buefy&bg_color=050505&title_color=ffffff&text_color=ffffff&layout=compact" alt="princeflutterdev">
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=princeflutterdev&count_private=true&show_icons=true&title_color=10cf53&icon_color=ffffff&text_color=ffffff&bg_color=050505" alt="princeflutterdev"/>&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=princeflutterdev&theme=buefy&bg_color=050505&title_color=ffffff&text_color=ffffff&layout=compact" alt="princeflutterdev">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=princeflutterdev)](https://git.io/streak-stats)
 </br>
