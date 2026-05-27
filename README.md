@@ -49,7 +49,7 @@
 
 <b>🏆 Github Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=princeflutterdev&theme=onedark)](https://github.com/princeflutterdev)
+[![trophy](https://github-trophies.vercel.app/?username=princeflutterdev&theme=onedark)](https://github.com/princeflutterdev)
 
 </br>
 </br>
